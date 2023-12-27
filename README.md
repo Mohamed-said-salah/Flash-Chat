@@ -1,9 +1,20 @@
 # Flash Chat ⚡️
 
-## Our Goal
 
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
+## Languages and frameworks 📑
 
+ * Flutter
+ * Firebase
+ * SQL
+
+## Packages 🔎
+
+ * firebase_core
+ * firebase_auth
+ * cloud_firestore
+ * modal_progress_hud
+ * flutter_local_notification
+ * sqflite
 
 ## What you will create
 
