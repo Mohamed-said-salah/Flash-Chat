@@ -19,7 +19,7 @@ Modern messaging app where users can sign up and log in to chat.
  * sqflite
 
 ## Features 🥇
- * You can register with your email
+ * You can register and login with your email
  * Enjoy Chatting with your close friends
 
 ## IDEs 💻
