@@ -29,6 +29,8 @@ Modern messaging app where users can sign up and log in to chat.
 
 ## Try the App 📱
 
+ * Get the apk of the app from [**Drive**](https://drive.google.com/file/d/1EAEdrmhuQUhaOM0X3FGWJHVNeLvrFrMu/view?usp=drive_link)
+
 ## Gained Experience 💡
 
 - How to incorporate Firebase into my Flutter projects.
