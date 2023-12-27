@@ -5,6 +5,7 @@ Modern messaging app where users can sign up and log in to chat.
 ## Languages and frameworks 📑
 
  * Flutter
+ * Dart
  * Firebase
  * SQL
 
