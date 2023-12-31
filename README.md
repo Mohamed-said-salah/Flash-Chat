@@ -27,7 +27,7 @@ Modern messaging app where users can sign up and log in to chat.
  * VS code
  * Android Studio
 
-## Try the App 📱
+## Get the App 📱
 
  * Get the apk of the app from [**Drive**](https://drive.google.com/file/d/1EAEdrmhuQUhaOM0X3FGWJHVNeLvrFrMu/view?usp=drive_link)
 
