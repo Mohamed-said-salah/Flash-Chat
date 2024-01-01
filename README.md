@@ -1,5 +1,3 @@
-![Finished App](https://github.com/Mohamed-said-salah/MyResume/blob/main/assets/img/portfolio/fc1.png?raw=true)
-
 # Flash Chat ⚡️
 
 Modern messaging app where users can sign up and log in to chat.
